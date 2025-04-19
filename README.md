@@ -5,8 +5,8 @@ A beautiful and interactive love message website with animations, sweet alerts, 
 ![Love Message Preview](https://i.imgur.com/dMbVw95.jpg)
 
 ## Live Demo
-https://erzambayu.github.io/fau.github.io/Foryou/index.html
-
+[https://erzambayu.github.io/fau.github.io/Foryou/index.html
+](https://erzambayu.me/ThisForYou/Foryou/)
 ## Features
 
 - 💖 Beautiful gradient background with floating hearts animation
